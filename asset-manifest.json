@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my_piano/static/css/main.dbcc0854.css",
+    "main.js": "/my_piano/static/js/main.f4285217.js",
+    "static/media/keyF4s.ogg": "/my_piano/static/media/keyF4s.669645f89b9997f7da8b.ogg",
+    "static/media/keyG4.ogg": "/my_piano/static/media/keyG4.15c366629fadcee0b827.ogg",
+    "static/media/keyG4s.ogg": "/my_piano/static/media/keyG4s.62bda2db3a63bc477e0f.ogg",
+    "static/media/keyA4.ogg": "/my_piano/static/media/keyA4.9b55d97780eac305d4cf.ogg",
+    "static/media/keyF4.ogg": "/my_piano/static/media/keyF4.74076a733310a2fde971.ogg",
+    "static/media/keyB4.ogg": "/my_piano/static/media/keyB4.3d21d899ca02e88efbc2.ogg",
+    "static/media/keyA4s.ogg": "/my_piano/static/media/keyA4s.0a75b79f17afa363f9be.ogg",
+    "static/media/keyE4.ogg": "/my_piano/static/media/keyE4.07622b951f352db1e025.ogg",
+    "static/media/keyD4s.ogg": "/my_piano/static/media/keyD4s.2b62f1ddce72b0404410.ogg",
+    "static/media/keyC4.ogg": "/my_piano/static/media/keyC4.cd426d14a1588a258ccb.ogg",
+    "static/media/keyD4.ogg": "/my_piano/static/media/keyD4.93b70a501748358a5855.ogg",
+    "static/media/keyC4s.ogg": "/my_piano/static/media/keyC4s.1fea7e0032001b41190d.ogg",
+    "index.html": "/my_piano/index.html",
+    "main.dbcc0854.css.map": "/my_piano/static/css/main.dbcc0854.css.map",
+    "main.f4285217.js.map": "/my_piano/static/js/main.f4285217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbcc0854.css",
+    "static/js/main.f4285217.js"
+  ]
+}
